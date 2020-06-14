@@ -1,6 +1,6 @@
 # Trabajo Final Computadores II USAL
 
-Juego Adivinar Parejas de Cartas
+Juego Adivinar Parejas de Cartas en Ensamblador 6809.
 
 # NOTA FINAL: 5.0
 
