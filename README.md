@@ -26,11 +26,11 @@ m6809-run -C $2 $1.s19
 
 El juego tiene que mostrar el siguiente tablero (se empieza desde el 0):
 
-| A | E | G | B | F | D | C | F | H | C | D | H | B | E | G | A |
+`| A | E | G | B | F | D | C | F | H | C | D | H | B | E | G | A |`
 
 Y acto seguido tiene que cambiarlo todo por X:
 
-| x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
+`| x | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x |`
 
 Luego se pide al usuario que introduzca dos posiciones y se verifica si son iguales. No puede elegirse una carta ya revelada.
 
